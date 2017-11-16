@@ -1,0 +1,10 @@
+FaceDetection
+FaceDetection$3
+FaceDetection$DaemonThread
+FaceDetection$2
+com.FaceDetection
+FaceDetection$1
+com.FaceDetection$2
+com.FaceDetection$1
+com.FaceDetection$3
+com.FaceDetection$DaemonThread
